@@ -1,7 +1,8 @@
 name: eda_info_box
 description: A new Flutter package project.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Ahnaf16/flutter_eda/tree/main/eda_info_box
+repository: https://github.com/Ahnaf16/flutter_eda/tree/main/eda_info_box
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
